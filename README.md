@@ -20,7 +20,9 @@
 4. Dockernize and deploy react app
 
    docker build -t nft-app . 
+
    docker run -d --name nft-app  -p 3000:3000 nft-app
+
    go to http://localhost:3000/
 
 ![image](https://github.com/halochg/nft-app/assets/2626025/34970e62-c158-42b2-b50c-93d8d52afc5f)
