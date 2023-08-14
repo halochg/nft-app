@@ -26,7 +26,7 @@
 ![image](https://github.com/halochg/nft-app/assets/2626025/7e0a3215-7a08-4753-aec4-824797e4633d)
 
 
-4. Dockernize and deploy react app
+3. Dockernize and deploy react app
 
    docker build -t nft-app . 
 
